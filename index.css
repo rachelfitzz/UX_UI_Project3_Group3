@@ -120,14 +120,15 @@ body {
     width: 807px;
     border-radius: 30px;
     box-shadow: 10px;
+    padding-left: 10px;
 }
 
 .searchBar a {
     cursor: pointer;
     text-decoration: none;
     font-size: 24px;
-    padding: 10px;
     color: grey;
+    margin-left: 10px;
 }
 
 .intro {
@@ -137,6 +138,10 @@ body {
     padding: auto;
     margin: auto 100px;
     gap: 50px;
+}
+
+.textCoral {
+    color: #EE6E62;
 }
 
 #bobIntro {
